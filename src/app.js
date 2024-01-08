@@ -56,7 +56,7 @@ console.log(port);
 dotenv.config(); 
 
 
-const app = express();
+const app = express(); //Inicializamos servidor express
 
 
 const httpServer = app.listen(port, () => console.log("Servidor corriendo!!"));
