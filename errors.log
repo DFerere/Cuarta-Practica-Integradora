@@ -2716,3 +2716,395 @@
 2024-01-08T00:10:43.069Z [logs] info: Usuario hizo logout: abolivar@gmail.com
 2024-01-08T00:10:43.075Z [logs] info: GET en /ecommerce/home/login
 2024-01-08T00:10:43.168Z [logs] info: Ingreso a pagina de Login
+2024-01-14T16:50:58.029Z [logs] info: GET en /ecommerce/home/login
+2024-01-14T16:50:58.033Z [logs] info: Ingreso a pagina de Login
+2024-01-14T16:50:58.103Z [logs] info: GET en /favicon.ico
+2024-01-14T16:51:58.203Z [logs] info: GET en /api/carts/2
+2024-01-14T16:51:58.225Z [logs] fatal: no se pudo traer productos del carrito
+2024-01-14T16:52:40.975Z [logs] info: GET en /ecommerce/user/getallusers
+2024-01-14T16:52:41.217Z [logs] info: Se obtuvieron todos los usuarios
+2024-01-14T16:54:11.424Z [logs] info: GET en /ecommerce/user/getallusers
+2024-01-14T17:07:18.002Z [logs] info: GET en /ecommerce/user/getallusers
+2024-01-14T17:07:18.934Z [logs] error: Contrasena nueva y vieja son las mismas del usuario: adminCoder@coder.com
+2024-01-14T17:07:19.074Z [logs] info: Se obtuvieron todos los usuarios
+2024-01-14T17:11:31.410Z [logs] info: GET en /ecommerce/user/getallusers
+2024-01-14T17:11:32.785Z [logs] error: Contrasena nueva y vieja son las mismas del usuario: adminCoder@coder.com
+2024-01-14T17:11:32.787Z [logs] error: Error trayendose todos los usuarios de la base de datos
+2024-01-14T17:11:32.791Z [logs] info: Se obtuvieron todos los usuarios
+2024-01-14T17:11:57.057Z [logs] info: GET en /ecommerce/user/getallusers
+2024-01-14T17:12:02.268Z [logs] error: Contrasena nueva y vieja son las mismas del usuario: adminCoder@coder.com
+2024-01-14T17:12:03.394Z [logs] info: Se obtuvieron todos los usuarios
+2024-01-14T17:12:41.695Z [logs] info: GET en /ecommerce/user/getallusers
+2024-01-14T17:12:42.523Z [logs] error: Contrasena nueva y vieja son las mismas del usuario: adminCoder@coder.com
+2024-01-14T17:12:42.697Z [logs] info: Se obtuvieron todos los usuarios
+2024-01-14T17:13:02.894Z [logs] info: GET en /ecommerce/user/getallusers
+2024-01-14T17:13:07.580Z [logs] error: Contrasena nueva y vieja son las mismas del usuario: adminCoder@coder.com
+2024-01-14T17:13:07.707Z [logs] info: Se obtuvieron todos los usuarios
+2024-01-14T22:35:57.077Z [logs] info: GET en /ecommerce/home/login
+2024-01-14T22:35:57.082Z [logs] info: Ingreso a pagina de Login
+2024-01-14T22:36:05.842Z [logs] info: POST en /ecommerce/user/login_passport
+2024-01-14T22:36:05.993Z [logs] info: Ingreso a update last connection
+2024-01-14T22:36:06.252Z [logs] info: Usuario hizo login: jperez@gmail.com
+2024-01-14T22:36:06.256Z [logs] info: Ingreso usuario
+2024-01-14T22:36:06.260Z [logs] info: GET en /ecommerce/user/user
+2024-01-14T22:36:06.850Z [logs] info: Entre a /user
+2024-01-14T22:37:02.370Z [logs] info: DELETE en /ecommerce/user/inactiveusers
+2024-01-14T22:37:25.722Z [logs] info: DELETE en /ecommerce/user/inactiveusers
+2024-01-14T22:37:25.901Z [logs] error: Contrasena nueva y vieja son las mismas del usuario: adminCoder@coder.com
+2024-01-14T22:37:25.902Z [logs] error: Error borrando usuarios de la base de datos
+2024-01-14T22:37:25.903Z [logs] info: Se obtuvieron todos los usuarios
+2024-01-14T22:39:01.621Z [logs] info: GET en /ecommerce/home/profile?
+2024-01-14T22:39:01.711Z [logs] info: usuario ingreso a su perfil: undefined
+2024-01-14T22:39:01.714Z [logs] info: GET en /ecommerce/home/login
+2024-01-14T22:39:01.860Z [logs] info: Ingreso a pagina de Login
+2024-01-14T22:47:51.710Z [logs] info: DELETE en /ecommerce/user/inactiveusers
+2024-01-14T22:47:51.835Z [logs] error: Contrasena nueva y vieja son las mismas del usuario: adminCoder@coder.com
+2024-01-14T22:47:51.835Z [logs] error: Error borrando usuarios de la base de datos
+2024-01-14T22:47:51.836Z [logs] info: Se obtuvieron todos los usuarios
+2024-01-14T22:48:09.663Z [logs] info: DELETE en /ecommerce/user/inactiveusers
+2024-01-14T22:48:09.845Z [logs] error: Contrasena nueva y vieja son las mismas del usuario: adminCoder@coder.com
+2024-01-14T22:48:09.846Z [logs] error: Error borrando usuarios de la base de datos
+2024-01-14T22:48:09.849Z [logs] info: Se borraron los usuarios
+2024-01-14T22:48:45.113Z [logs] info: DELETE en /ecommerce/user/inactiveusers
+2024-01-14T22:48:45.282Z [logs] error: Contrasena nueva y vieja son las mismas del usuario: adminCoder@coder.com
+2024-01-14T22:48:45.283Z [logs] error: Error borrando usuarios de la base de datos
+2024-01-14T22:48:45.286Z [logs] info: Se borraron los usuarios
+2024-01-14T22:50:44.057Z [logs] info: DELETE en /ecommerce/user/inactiveusers
+2024-01-14T22:50:44.247Z [logs] error: Contrasena nueva y vieja son las mismas del usuario: adminCoder@coder.com
+2024-01-14T22:50:44.249Z [logs] error: Error borrando usuarios de la base de datos
+2024-01-14T22:50:44.252Z [logs] info: Se borraron los usuarios
+2024-01-14T22:51:10.178Z [logs] info: DELETE en /ecommerce/user/inactiveusers
+2024-01-14T22:51:11.345Z [logs] error: Contrasena nueva y vieja son las mismas del usuario: adminCoder@coder.com
+2024-01-14T22:51:11.346Z [logs] error: Error borrando usuarios de la base de datos
+2024-01-14T22:51:11.350Z [logs] info: Se borraron los usuarios
+2024-01-14T22:54:46.122Z [logs] info: DELETE en /ecommerce/user/inactiveusers
+2024-01-14T22:54:46.273Z [logs] error: Contrasena nueva y vieja son las mismas del usuario: adminCoder@coder.com
+2024-01-14T22:54:46.349Z [logs] info: Se borraron los usuarios
+2024-01-14T22:55:09.726Z [logs] info: POST en /ecommerce/user/login_passport
+2024-01-14T22:55:09.937Z [logs] info: Ingreso a update last connection
+2024-01-14T22:55:10.215Z [logs] info: Usuario hizo login: jperez@gmail.com
+2024-01-14T22:55:10.217Z [logs] info: Ingreso usuario
+2024-01-14T22:55:10.221Z [logs] info: GET en /ecommerce/user/user
+2024-01-14T22:55:10.832Z [logs] info: Entre a /user
+2024-01-14T22:55:11.992Z [logs] info: GET en /ecommerce/home/profile?
+2024-01-14T22:55:12.208Z [logs] info: usuario ingreso a su perfil: jperez@gmail.com
+2024-01-14T22:55:14.839Z [logs] info: GET en /ecommerce/home/profile?
+2024-01-14T22:55:15.017Z [logs] info: usuario ingreso a su perfil: jperez@gmail.com
+2024-01-14T22:55:20.385Z [logs] info: GET en /mongo/products/mockingproducts?
+2024-01-14T22:55:25.536Z [logs] info: GET en /ecommerce/home/profile?
+2024-01-14T22:55:25.697Z [logs] info: usuario ingreso a su perfil: jperez@gmail.com
+2024-01-14T22:55:28.116Z [logs] info: GET en /ecommerce/home/logout?
+2024-01-14T22:55:28.273Z [logs] info: Usuario hizo logout: jperez@gmail.com
+2024-01-14T22:55:28.277Z [logs] info: GET en /ecommerce/home/login
+2024-01-14T22:55:28.420Z [logs] info: Ingreso a pagina de Login
+2024-01-14T22:55:28.421Z [logs] info: usuario ya estaba logueado
+2024-01-14T22:55:28.424Z [logs] info: GET en /ecommerce/home/profile
+2024-01-14T22:55:28.511Z [logs] info: usuario ingreso a su perfil: undefined
+2024-01-14T22:55:28.514Z [logs] info: GET en /ecommerce/home/login
+2024-01-14T22:55:28.583Z [logs] info: Ingreso a pagina de Login
+2024-01-14T22:55:32.372Z [logs] info: DELETE en /ecommerce/user/inactiveusers
+2024-01-14T22:55:32.546Z [logs] error: Contrasena nueva y vieja son las mismas del usuario: adminCoder@coder.com
+2024-01-14T22:55:32.765Z [logs] info: Se borraron los usuarios
+2024-01-14T22:56:13.679Z [logs] info: DELETE en /ecommerce/user/inactiveusers
+2024-01-14T22:58:48.182Z [logs] info: POST en /ecommerce/user/login_passport
+2024-01-14T22:58:48.387Z [logs] info: Ingreso a update last connection
+2024-01-14T22:58:48.644Z [logs] info: Usuario hizo login: adminCoder@coder.com
+2024-01-14T22:58:48.645Z [logs] info: Ingreso usuario administrador
+2024-01-14T22:58:48.648Z [logs] info: GET en /ecommerce/user/admin
+2024-01-14T23:29:38.251Z [logs] info: GET en /ecommerce/home/logout?
+2024-01-14T23:29:38.329Z [logs] info: Usuario hizo logout: undefined
+2024-01-14T23:29:38.339Z [logs] info: GET en /ecommerce/home/login
+2024-01-14T23:29:38.873Z [logs] info: Ingreso a pagina de Login
+2024-01-14T23:29:41.706Z [logs] info: GET en /ecommerce/home/login
+2024-01-14T23:29:41.799Z [logs] info: Ingreso a pagina de Login
+2024-01-14T23:29:49.261Z [logs] info: POST en /ecommerce/user/login_passport
+2024-01-14T23:29:49.481Z [logs] info: GET en /api/sessions/failurelogin
+2024-01-14T23:29:49.556Z [logs] error: Fallo login del usuario: undefined
+2024-01-14T23:30:14.545Z [logs] info: GET en /api/sessions/failurelogin
+2024-01-14T23:30:14.642Z [logs] error: Fallo login del usuario: undefined
+2024-01-14T23:30:26.600Z [logs] info: GET en /ecommerce/home/login
+2024-01-14T23:30:26.698Z [logs] info: Ingreso a pagina de Login
+2024-01-14T23:30:33.567Z [logs] info: POST en /ecommerce/user/login_passport
+2024-01-14T23:30:33.826Z [logs] info: Ingreso a update last connection
+2024-01-14T23:30:34.096Z [logs] info: Usuario hizo login: adminCoder@coder.com
+2024-01-14T23:30:34.099Z [logs] info: Ingreso usuario administrador
+2024-01-14T23:30:34.107Z [logs] info: GET en /ecommerce/user/admin
+2024-01-14T23:30:40.018Z [logs] info: GET en /ecommerce/user/admin/rol/view?
+2024-01-14T23:31:19.935Z [logs] info: GET en /ecommerce/home/logout?
+2024-01-14T23:31:20.029Z [logs] info: Usuario hizo logout: undefined
+2024-01-14T23:31:20.038Z [logs] info: GET en /ecommerce/home/login
+2024-01-14T23:31:20.526Z [logs] info: Ingreso a pagina de Login
+2024-01-14T23:31:27.150Z [logs] info: POST en /ecommerce/user/login_passport
+2024-01-14T23:31:27.405Z [logs] info: Ingreso a update last connection
+2024-01-14T23:31:27.650Z [logs] info: Usuario hizo login: adminCoder@coder.com
+2024-01-14T23:31:27.652Z [logs] info: Ingreso usuario administrador
+2024-01-14T23:31:27.656Z [logs] info: GET en /ecommerce/user/admin
+2024-01-14T23:31:29.754Z [logs] info: GET en /ecommerce/user/admin/rol/view?
+2024-01-14T23:31:49.180Z [logs] info: POST en /ecommerce/user/admin/rol
+2024-01-14T23:31:49.269Z [logs] error: No esta autorizado a realizar esta operacion
+2024-01-14T23:32:24.876Z [logs] info: GET en /ecommerce/home/logout?
+2024-01-14T23:32:24.954Z [logs] info: Usuario hizo logout: undefined
+2024-01-14T23:32:24.963Z [logs] info: GET en /ecommerce/home/login
+2024-01-14T23:32:25.477Z [logs] info: Ingreso a pagina de Login
+2024-01-14T23:32:32.603Z [logs] info: POST en /ecommerce/user/login_passport
+2024-01-14T23:32:32.861Z [logs] info: Ingreso a update last connection
+2024-01-14T23:32:33.144Z [logs] info: Usuario hizo login: adminCoder@coder.com
+2024-01-14T23:32:33.147Z [logs] info: Ingreso usuario administrador
+2024-01-14T23:32:33.154Z [logs] info: GET en /ecommerce/user/admin
+2024-01-14T23:32:35.222Z [logs] info: GET en /ecommerce/user/admin/rol/view?
+2024-01-14T23:32:39.960Z [logs] info: POST en /ecommerce/user/admin/rol
+2024-01-14T23:32:40.294Z [logs] info: Se cambio rol del usuario con exito: jperez@gmail.com
+2024-01-14T23:42:18.645Z [logs] info: GET en /ecommerce/home/logout?
+2024-01-14T23:42:18.723Z [logs] info: Usuario hizo logout: undefined
+2024-01-14T23:42:18.733Z [logs] info: GET en /ecommerce/home/login
+2024-01-14T23:42:19.243Z [logs] info: Ingreso a pagina de Login
+2024-01-14T23:42:20.238Z [logs] info: GET en /ecommerce/home/login
+2024-01-14T23:42:20.311Z [logs] info: Ingreso a pagina de Login
+2024-01-14T23:42:26.630Z [logs] info: POST en /ecommerce/user/login_passport
+2024-01-14T23:42:26.853Z [logs] info: Ingreso a update last connection
+2024-01-14T23:42:27.187Z [logs] info: Usuario hizo login: adminCoder@coder.com
+2024-01-14T23:42:27.190Z [logs] info: Ingreso usuario administrador
+2024-01-14T23:42:27.194Z [logs] info: GET en /ecommerce/user/admin
+2024-01-14T23:42:31.201Z [logs] info: GET en /ecommerce/user/admin/list/view?
+2024-01-14T23:43:01.566Z [logs] info: GET en /ecommerce/home/login
+2024-01-14T23:43:01.653Z [logs] info: Ingreso a pagina de Login
+2024-01-14T23:43:06.932Z [logs] info: POST en /ecommerce/user/login_passport
+2024-01-14T23:43:07.157Z [logs] info: Ingreso a update last connection
+2024-01-14T23:43:07.399Z [logs] info: Usuario hizo login: adminCoder@coder.com
+2024-01-14T23:43:07.402Z [logs] info: Ingreso usuario administrador
+2024-01-14T23:43:07.408Z [logs] info: GET en /ecommerce/user/admin
+2024-01-14T23:43:10.165Z [logs] info: GET en /ecommerce/user/admin/list/view?
+2024-01-14T23:43:14.334Z [logs] info: GET en /ecommerce/user/admin/list/view?
+2024-01-14T23:43:35.304Z [logs] info: GET en /ecommerce/home/logout?
+2024-01-14T23:43:35.382Z [logs] info: Usuario hizo logout: undefined
+2024-01-14T23:43:35.391Z [logs] info: GET en /ecommerce/home/login
+2024-01-14T23:43:35.934Z [logs] info: Ingreso a pagina de Login
+2024-01-14T23:43:36.599Z [logs] info: GET en /ecommerce/home/login
+2024-01-14T23:43:36.677Z [logs] info: Ingreso a pagina de Login
+2024-01-14T23:43:41.815Z [logs] info: POST en /ecommerce/user/login_passport
+2024-01-14T23:43:42.050Z [logs] info: Ingreso a update last connection
+2024-01-14T23:43:42.312Z [logs] info: Usuario hizo login: adminCoder@coder.com
+2024-01-14T23:43:42.314Z [logs] info: Ingreso usuario administrador
+2024-01-14T23:43:42.319Z [logs] info: GET en /ecommerce/user/admin
+2024-01-14T23:43:44.455Z [logs] info: GET en /ecommerce/user/admin/list/view?
+2024-01-14T23:43:45.667Z [logs] info: GET en /ecommerce/user/admin/listusers?
+2024-01-14T23:44:15.387Z [logs] info: GET en /ecommerce/home/logout?
+2024-01-14T23:44:15.480Z [logs] info: Usuario hizo logout: undefined
+2024-01-14T23:44:15.490Z [logs] info: GET en /ecommerce/home/login
+2024-01-14T23:44:16.019Z [logs] info: Ingreso a pagina de Login
+2024-01-14T23:44:21.468Z [logs] info: POST en /ecommerce/user/login_passport
+2024-01-14T23:44:21.678Z [logs] info: Ingreso a update last connection
+2024-01-14T23:44:21.948Z [logs] info: Usuario hizo login: adminCoder@coder.com
+2024-01-14T23:44:21.950Z [logs] info: Ingreso usuario administrador
+2024-01-14T23:44:21.954Z [logs] info: GET en /ecommerce/user/admin
+2024-01-14T23:44:23.111Z [logs] info: GET en /ecommerce/user/admin/list/view?
+2024-01-14T23:44:24.518Z [logs] info: GET en /ecommerce/user/admin/listusers?
+2024-01-14T23:44:24.764Z [logs] info: Se obtuvieron todos los usuarios
+2024-01-15T00:06:17.546Z [logs] info: GET en /ecommerce/home/logout?
+2024-01-15T00:06:17.625Z [logs] info: Usuario hizo logout: undefined
+2024-01-15T00:06:17.635Z [logs] info: GET en /ecommerce/home/login
+2024-01-15T00:06:18.133Z [logs] info: Ingreso a pagina de Login
+2024-01-15T00:06:23.941Z [logs] info: POST en /ecommerce/user/login_passport
+2024-01-15T00:06:24.179Z [logs] info: Ingreso a update last connection
+2024-01-15T00:06:24.448Z [logs] info: Usuario hizo login: adminCoder@coder.com
+2024-01-15T00:06:24.450Z [logs] info: Ingreso usuario administrador
+2024-01-15T00:06:24.454Z [logs] info: GET en /ecommerce/user/admin
+2024-01-15T00:06:26.056Z [logs] info: GET en /ecommerce/user/admin/deleteuser/view?
+2024-01-15T00:06:51.953Z [logs] info: GET en /ecommerce/home/logout?
+2024-01-15T00:06:52.033Z [logs] info: Usuario hizo logout: undefined
+2024-01-15T00:06:52.042Z [logs] info: GET en /ecommerce/home/login
+2024-01-15T00:06:52.558Z [logs] info: Ingreso a pagina de Login
+2024-01-15T00:06:57.362Z [logs] info: POST en /ecommerce/user/login_passport
+2024-01-15T00:06:57.579Z [logs] info: Ingreso a update last connection
+2024-01-15T00:06:57.830Z [logs] info: Usuario hizo login: adminCoder@coder.com
+2024-01-15T00:06:57.832Z [logs] info: Ingreso usuario administrador
+2024-01-15T00:06:57.837Z [logs] info: GET en /ecommerce/user/admin
+2024-01-15T00:06:59.288Z [logs] info: GET en /ecommerce/user/admin/deleteuser/view?
+2024-01-15T00:07:23.863Z [logs] info: POST en /ecommerce/user/admin/delete/user
+2024-01-15T00:07:50.176Z [logs] info: GET en /ecommerce/home/logout?
+2024-01-15T00:07:50.273Z [logs] info: Usuario hizo logout: undefined
+2024-01-15T00:07:50.278Z [logs] info: GET en /ecommerce/home/login
+2024-01-15T00:07:50.351Z [logs] info: Ingreso a pagina de Login
+2024-01-15T00:07:51.871Z [logs] info: GET en /ecommerce/home/login
+2024-01-15T00:07:51.945Z [logs] info: Ingreso a pagina de Login
+2024-01-15T00:07:58.749Z [logs] info: POST en /ecommerce/user/login_passport
+2024-01-15T00:07:58.994Z [logs] info: Ingreso a update last connection
+2024-01-15T00:07:59.221Z [logs] info: Usuario hizo login: adminCoder@coder.com
+2024-01-15T00:07:59.222Z [logs] info: Ingreso usuario administrador
+2024-01-15T00:07:59.226Z [logs] info: GET en /ecommerce/user/admin
+2024-01-15T00:08:01.206Z [logs] info: GET en /ecommerce/user/admin/deleteuser/view?
+2024-01-15T00:08:04.886Z [logs] info: GET en /ecommerce/user/admin/delete/user?email=manuelferere22%40gmail.com
+2024-01-15T00:10:45.793Z [logs] info: GET en /ecommerce/home/logout?
+2024-01-15T00:10:45.911Z [logs] info: Usuario hizo logout: undefined
+2024-01-15T00:10:45.922Z [logs] info: GET en /ecommerce/home/login
+2024-01-15T00:10:46.446Z [logs] info: Ingreso a pagina de Login
+2024-01-15T00:10:47.450Z [logs] info: GET en /ecommerce/home/login
+2024-01-15T00:10:47.524Z [logs] info: Ingreso a pagina de Login
+2024-01-15T00:10:53.730Z [logs] info: POST en /ecommerce/user/login_passport
+2024-01-15T00:10:53.939Z [logs] info: Ingreso a update last connection
+2024-01-15T00:10:54.212Z [logs] info: Usuario hizo login: adminCoder@coder.com
+2024-01-15T00:10:54.214Z [logs] info: Ingreso usuario administrador
+2024-01-15T00:10:54.219Z [logs] info: GET en /ecommerce/user/admin
+2024-01-15T00:10:55.758Z [logs] info: GET en /ecommerce/user/admin/deleteuser/view?
+2024-01-15T00:11:02.100Z [logs] info: GET en /ecommerce/user/admin/delete/user?email=manuelferere22%40gmail.com
+2024-01-15T00:12:02.319Z [logs] info: GET en /ecommerce/home/logout?
+2024-01-15T00:12:02.401Z [logs] info: Usuario hizo logout: undefined
+2024-01-15T00:12:02.409Z [logs] info: GET en /ecommerce/home/login
+2024-01-15T00:12:02.918Z [logs] info: Ingreso a pagina de Login
+2024-01-15T00:12:04.766Z [logs] info: GET en /ecommerce/home/logout?
+2024-01-15T00:12:04.840Z [logs] info: Usuario hizo logout: undefined
+2024-01-15T00:12:04.845Z [logs] info: GET en /ecommerce/home/login
+2024-01-15T00:12:04.916Z [logs] info: Ingreso a pagina de Login
+2024-01-15T00:12:14.615Z [logs] info: POST en /ecommerce/user/login_passport
+2024-01-15T00:12:14.888Z [logs] info: Ingreso a update last connection
+2024-01-15T00:12:15.122Z [logs] info: Usuario hizo login: adminCoder@coder.com
+2024-01-15T00:12:15.123Z [logs] info: Ingreso usuario administrador
+2024-01-15T00:12:15.129Z [logs] info: GET en /ecommerce/user/admin
+2024-01-15T00:12:16.669Z [logs] info: GET en /ecommerce/user/admin/deleteuser/view?
+2024-01-15T00:12:26.756Z [logs] info: GET en /ecommerce/user/admin/delete/user?email=manuelferere22%40gmail.com
+2024-01-15T00:12:26.930Z [logs] info: Se borro el usuario de forma exitosa
+2024-01-15T00:12:26.931Z [logs] info: Se elimino usuario con exito
+2024-01-15T00:14:59.617Z [logs] info: GET en /ecommerce/home/logout?
+2024-01-15T00:14:59.710Z [logs] info: Usuario hizo logout: undefined
+2024-01-15T00:14:59.719Z [logs] info: GET en /ecommerce/home/login
+2024-01-15T00:15:00.301Z [logs] info: Ingreso a pagina de Login
+2024-01-15T00:15:11.670Z [logs] info: POST en /ecommerce/user/login_passport
+2024-01-15T00:15:11.893Z [logs] info: Ingreso a update last connection
+2024-01-15T00:15:12.160Z [logs] info: Usuario hizo login: adminCoder@coder.com
+2024-01-15T00:15:12.163Z [logs] info: Ingreso usuario administrador
+2024-01-15T00:15:12.168Z [logs] info: GET en /ecommerce/user/admin
+2024-01-15T00:15:13.460Z [logs] info: GET en /ecommerce/user/admin/deleteuser/view?
+2024-01-15T00:15:18.160Z [logs] info: GET en /ecommerce/user/admin/delete/user?email=manuelferere22%40gmail.com
+2024-01-15T00:15:18.327Z [logs] info: Se borro el usuario de forma exitosa
+2024-01-15T00:15:18.328Z [logs] info: Se elimino usuario con exito
+2024-01-15T00:16:03.151Z [logs] info: GET en /ecommerce/home/logout?
+2024-01-15T00:16:03.232Z [logs] info: Usuario hizo logout: undefined
+2024-01-15T00:16:03.240Z [logs] info: GET en /ecommerce/home/login
+2024-01-15T00:16:03.731Z [logs] info: Ingreso a pagina de Login
+2024-01-15T00:16:12.600Z [logs] info: POST en /ecommerce/user/login_passport
+2024-01-15T00:16:12.825Z [logs] info: Ingreso a update last connection
+2024-01-15T00:16:13.089Z [logs] info: Usuario hizo login: adminCoder@coder.com
+2024-01-15T00:16:13.091Z [logs] info: Ingreso usuario administrador
+2024-01-15T00:16:13.095Z [logs] info: GET en /ecommerce/user/admin
+2024-01-15T00:16:14.068Z [logs] info: GET en /ecommerce/user/admin/deleteuser/view?
+2024-01-15T00:16:22.813Z [logs] info: GET en /ecommerce/user/admin/delete/user?email=manuelferere22%40gmail.com
+2024-01-15T00:16:22.959Z [logs] info: Se borro el usuario de forma exitosa
+2024-01-15T00:16:22.960Z [logs] info: Se elimino usuario con exito
+2024-01-15T00:19:47.794Z [logs] info: GET en /ecommerce/home/logout?
+2024-01-15T00:19:47.969Z [logs] info: Usuario hizo logout: undefined
+2024-01-15T00:19:47.979Z [logs] info: GET en /ecommerce/home/login
+2024-01-15T00:19:48.478Z [logs] info: Ingreso a pagina de Login
+2024-01-15T00:19:54.110Z [logs] info: POST en /ecommerce/user/login_passport
+2024-01-15T00:19:54.333Z [logs] info: Ingreso a update last connection
+2024-01-15T00:19:54.586Z [logs] info: Usuario hizo login: adminCoder@coder.com
+2024-01-15T00:19:54.589Z [logs] info: Ingreso usuario administrador
+2024-01-15T00:19:54.594Z [logs] info: GET en /ecommerce/user/admin
+2024-01-15T00:19:56.154Z [logs] info: GET en /ecommerce/user/admin/deleteuser/view?
+2024-01-15T00:20:04.981Z [logs] info: POST en /ecommerce/user/admin/delete/user
+2024-01-15T00:20:05.137Z [logs] info: Se borro el usuario de forma exitosa
+2024-01-15T00:20:05.138Z [logs] info: Se elimino usuario con exito
+2024-01-15T00:21:59.298Z [logs] info: GET en /ecommerce/home/logout?
+2024-01-15T00:21:59.419Z [logs] info: Usuario hizo logout: undefined
+2024-01-15T00:21:59.428Z [logs] info: GET en /ecommerce/home/login
+2024-01-15T00:21:59.954Z [logs] info: Ingreso a pagina de Login
+2024-01-15T00:22:08.990Z [logs] info: POST en /ecommerce/user/login_passport
+2024-01-15T00:22:09.214Z [logs] info: Ingreso a update last connection
+2024-01-15T00:22:09.527Z [logs] info: Usuario hizo login: adminCoder@coder.com
+2024-01-15T00:22:09.529Z [logs] info: Ingreso usuario administrador
+2024-01-15T00:22:09.535Z [logs] info: GET en /ecommerce/user/admin
+2024-01-15T00:22:10.774Z [logs] info: GET en /ecommerce/user/admin/deleteuser/view?
+2024-01-15T00:22:15.986Z [logs] info: POST en /ecommerce/user/admin/delete/user
+2024-01-15T00:22:16.146Z [logs] info: Se borro el usuario de forma exitosa
+2024-01-15T00:22:16.147Z [logs] info: Se elimino usuario con exito
+2024-01-15T00:22:58.170Z [logs] info: GET en /ecommerce/home/logout?
+2024-01-15T00:22:58.246Z [logs] info: Usuario hizo logout: undefined
+2024-01-15T00:22:58.254Z [logs] info: GET en /ecommerce/home/login
+2024-01-15T00:22:58.757Z [logs] info: Ingreso a pagina de Login
+2024-01-15T00:23:03.809Z [logs] info: POST en /ecommerce/user/login_passport
+2024-01-15T00:23:04.044Z [logs] info: Ingreso a update last connection
+2024-01-15T00:23:04.307Z [logs] info: Usuario hizo login: adminCoder@coder.com
+2024-01-15T00:23:04.309Z [logs] info: Ingreso usuario administrador
+2024-01-15T00:23:04.314Z [logs] info: GET en /ecommerce/user/admin
+2024-01-15T00:23:05.824Z [logs] info: GET en /ecommerce/user/admin/deleteuser/view?
+2024-01-15T00:23:11.357Z [logs] info: POST en /ecommerce/user/admin/delete/user
+2024-01-15T00:23:11.524Z [logs] info: Se borro el usuario de forma exitosa
+2024-01-15T00:23:11.525Z [logs] info: Se elimino usuario con exito
+2024-01-15T00:23:48.496Z [logs] info: GET en /ecommerce/home/logout?
+2024-01-15T00:23:48.601Z [logs] info: Usuario hizo logout: undefined
+2024-01-15T00:23:48.610Z [logs] info: GET en /ecommerce/home/login
+2024-01-15T00:23:49.110Z [logs] info: Ingreso a pagina de Login
+2024-01-15T00:23:55.227Z [logs] info: POST en /ecommerce/user/login_passport
+2024-01-15T00:23:55.466Z [logs] info: Ingreso a update last connection
+2024-01-15T00:23:55.848Z [logs] info: Usuario hizo login: adminCoder@coder.com
+2024-01-15T00:23:55.851Z [logs] info: Ingreso usuario administrador
+2024-01-15T00:23:55.855Z [logs] info: GET en /ecommerce/user/admin
+2024-01-15T00:23:56.895Z [logs] info: GET en /ecommerce/user/admin/deleteuser/view?
+2024-01-15T00:24:02.632Z [logs] info: POST en /ecommerce/user/admin/delete/user
+2024-01-15T00:24:02.800Z [logs] error: Error borrando usuario de la base de datos
+2024-01-15T00:24:02.801Z [logs] info: Se elimino usuario con exito
+2024-01-15T00:25:08.273Z [logs] info: GET en /ecommerce/home/logout?
+2024-01-15T00:25:08.358Z [logs] info: Usuario hizo logout: undefined
+2024-01-15T00:25:08.369Z [logs] info: GET en /ecommerce/home/login
+2024-01-15T00:25:08.881Z [logs] info: Ingreso a pagina de Login
+2024-01-15T00:25:16.005Z [logs] info: POST en /ecommerce/user/login_passport
+2024-01-15T00:25:16.262Z [logs] info: Ingreso a update last connection
+2024-01-15T00:25:16.555Z [logs] info: Usuario hizo login: adminCoder@coder.com
+2024-01-15T00:25:16.557Z [logs] info: Ingreso usuario administrador
+2024-01-15T00:25:16.562Z [logs] info: GET en /ecommerce/user/admin
+2024-01-15T00:25:17.838Z [logs] info: GET en /ecommerce/user/admin/deleteuser/view?
+2024-01-15T00:25:24.261Z [logs] info: POST en /ecommerce/user/admin/delete/user
+2024-01-15T00:25:24.430Z [logs] error: Error borrando usuario de la base de datos
+2024-01-15T00:25:24.431Z [logs] info: Se elimino usuario con exito
+2024-01-15T00:26:43.810Z [logs] info: GET en /ecommerce/home/logout?
+2024-01-15T00:26:43.888Z [logs] info: Usuario hizo logout: undefined
+2024-01-15T00:26:43.897Z [logs] info: GET en /ecommerce/home/login
+2024-01-15T00:26:44.398Z [logs] info: Ingreso a pagina de Login
+2024-01-15T00:26:50.623Z [logs] info: POST en /ecommerce/user/login_passport
+2024-01-15T00:26:50.837Z [logs] info: Ingreso a update last connection
+2024-01-15T00:26:51.111Z [logs] info: Usuario hizo login: adminCoder@coder.com
+2024-01-15T00:26:51.113Z [logs] info: Ingreso usuario administrador
+2024-01-15T00:26:51.118Z [logs] info: GET en /ecommerce/user/admin
+2024-01-15T00:26:52.793Z [logs] info: GET en /ecommerce/user/admin/deleteuser/view?
+2024-01-15T00:26:57.761Z [logs] info: POST en /ecommerce/user/admin/delete/user
+2024-01-15T00:26:58.115Z [logs] info: Se borro el usuario de forma exitosa
+2024-01-15T00:26:58.117Z [logs] info: Se elimino usuario con exito
+2024-01-15T00:27:23.698Z [logs] info: GET en /ecommerce/home/logout?
+2024-01-15T00:27:23.784Z [logs] info: Usuario hizo logout: undefined
+2024-01-15T00:27:23.794Z [logs] info: GET en /ecommerce/home/login
+2024-01-15T00:27:24.329Z [logs] info: Ingreso a pagina de Login
+2024-01-15T00:27:30.157Z [logs] info: POST en /ecommerce/user/login_passport
+2024-01-15T00:27:30.366Z [logs] info: Ingreso a update last connection
+2024-01-15T00:27:30.630Z [logs] info: Usuario hizo login: adminCoder@coder.com
+2024-01-15T00:27:30.632Z [logs] info: Ingreso usuario administrador
+2024-01-15T00:27:30.636Z [logs] info: GET en /ecommerce/user/admin
+2024-01-15T00:27:32.233Z [logs] info: GET en /ecommerce/user/admin/deleteuser/view?
+2024-01-15T00:27:36.718Z [logs] info: POST en /ecommerce/user/admin/delete/user
+2024-01-15T00:27:36.964Z [logs] info: Se borro el usuario de forma exitosa
+2024-01-15T00:27:36.965Z [logs] info: Se elimino usuario con exito
+2024-01-15T00:28:11.382Z [logs] info: GET en /ecommerce/home/logout?
+2024-01-15T00:28:11.466Z [logs] info: Usuario hizo logout: undefined
+2024-01-15T00:28:11.474Z [logs] info: GET en /ecommerce/home/login
+2024-01-15T00:28:12.052Z [logs] info: Ingreso a pagina de Login
+2024-01-15T00:28:16.629Z [logs] info: POST en /ecommerce/user/login_passport
+2024-01-15T00:28:16.838Z [logs] info: Ingreso a update last connection
+2024-01-15T00:28:17.104Z [logs] info: Usuario hizo login: adminCoder@coder.com
+2024-01-15T00:28:17.106Z [logs] info: Ingreso usuario administrador
+2024-01-15T00:28:17.110Z [logs] info: GET en /ecommerce/user/admin
+2024-01-15T00:28:18.211Z [logs] info: GET en /ecommerce/user/admin/deleteuser/view?
+2024-01-15T00:28:22.010Z [logs] info: POST en /ecommerce/user/admin/delete/user
+2024-01-15T00:28:22.251Z [logs] info: Se borro el usuario de forma exitosa
+2024-01-15T00:28:22.252Z [logs] info: Se elimino usuario con exito
+2024-01-15T00:29:02.015Z [logs] info: GET en /ecommerce/home/logout?
+2024-01-15T00:29:02.094Z [logs] info: Usuario hizo logout: undefined
+2024-01-15T00:29:02.103Z [logs] info: GET en /ecommerce/home/login
+2024-01-15T00:29:02.612Z [logs] info: Ingreso a pagina de Login
+2024-01-15T00:29:07.812Z [logs] info: POST en /ecommerce/user/login_passport
+2024-01-15T00:29:08.067Z [logs] info: Ingreso a update last connection
+2024-01-15T00:29:08.343Z [logs] info: Usuario hizo login: adminCoder@coder.com
+2024-01-15T00:29:08.345Z [logs] info: Ingreso usuario administrador
+2024-01-15T00:29:08.350Z [logs] info: GET en /ecommerce/user/admin
+2024-01-15T00:29:09.447Z [logs] info: GET en /ecommerce/user/admin/deleteuser/view?
+2024-01-15T00:29:14.413Z [logs] info: POST en /ecommerce/user/admin/delete/user
+2024-01-15T00:29:14.728Z [logs] info: Se borro correctamente el usuario
+2024-01-15T00:29:14.728Z [logs] info: Se borro el usuario de forma exitosa
+2024-01-15T00:29:14.729Z [logs] info: Se elimino usuario con exito

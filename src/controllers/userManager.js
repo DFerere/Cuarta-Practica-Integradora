@@ -272,6 +272,64 @@ class userManager {
 
     }
 
+    async getallusers() {
+
+        try {
+
+            // const user = await usersModel.findOne({email});
+
+            const user = await userservice.getallusers();
+            return user; 
+
+
+        } catch {
+
+            logger.error("Error trayendose todos los usuarios de la base de datos");
+
+        }
+
+    }
+
+
+    async deleteusers() {
+
+        try {
+
+            // const user = await usersModel.findOne({email});
+
+            const user = await userservice.obtainuserstodelete();
+            return user; 
+
+
+        } catch {
+
+            logger.error("Error borrando usuarios de la base de datos");
+
+        }
+
+    }
+
+    async admindeleteuser(email) {
+
+        console.log(email); 
+
+        try {
+
+            // const user = await usersModel.findOne({email});
+
+            const user = await userservice.deleteuser(email);
+            logger.info("Se borro el usuario de forma exitosa");
+            return user;  
+
+
+        } catch {
+
+            logger.error("Error borrando usuario de la base de datos");
+
+        }
+
+    }
+
 }
 
 export default userManager;
